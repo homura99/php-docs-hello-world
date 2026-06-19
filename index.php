@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello World!アクセスできたで！";
+echo "Hello World!Ground!";
 ?>
