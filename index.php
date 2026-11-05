@@ -21,7 +21,10 @@
     </style>
 </head>
 <body>
-    <p>確認画面</p>
+    <p>
+        Hello World<br>
+        youkoso!
+    </p>
     <script>
         window.setInterval(() => {
             document.body.classList.toggle('alternate');
