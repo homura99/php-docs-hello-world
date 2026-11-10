@@ -28,7 +28,7 @@
     <script>
         window.setInterval(() => {
             document.body.classList.toggle('alternate');
-        }, 50);
+        }, 500);
     </script>
 </body>
 </html>
